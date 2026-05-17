@@ -272,4 +272,6 @@ exit
 | Docker permissions | ✅ Configured |
 | Docker auto-start | ✅ Enabled |
 
-You can now run containerised Node.js apps, Python apps, PostgreSQL, MongoDB, Redis, full-stack projects, AI/ML environments, Docker Compose projects, and more.
+---
+
+All Done.. 😊
