@@ -1,6 +1,6 @@
 # Docker Installation Guide for Ubuntu (CLI + GUI)
 
-> Installs Docker Engine (CLI), Docker Desktop (GUI), Docker permissions, and Docker Desktop auto-start on a fresh Ubuntu system.
+> Installs Docker Engine (CLI), Docker Desktop (GUI), Docker permissions, and Docker Desktop auto-start on a fresh Linux based OS i.e: Ubuntu system.
 
 ---
 
