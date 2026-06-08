@@ -2,29 +2,6 @@
 
 > Installs Docker Engine (CLI), Docker Desktop (GUI), Docker permissions, and Docker Desktop auto-start on a fresh Linux based OS i.e: Ubuntu system.
 
----
-
-## Table of Contents
-
-1. [Update Ubuntu](#1-update-ubuntu)
-2. [Install Required Packages](#2-install-required-packages)
-3. [Create Docker Keyring Folder](#3-create-docker-keyring-folder)
-4. [Add Docker Official GPG Key](#4-add-docker-official-gpg-key)
-5. [Add Docker Repository](#5-add-docker-repository)
-6. [Update Package List](#6-update-package-list)
-7. [Install Docker Engine](#7-install-docker-engine)
-8. [Verify Docker Installation](#8-verify-docker-installation)
-9. [Start Docker Service](#9-start-docker-service)
-10. [Create Docker Group](#10-create-docker-group)
-11. [Add User to Docker Group](#11-add-user-to-docker-group)
-12. [Refresh Group Permissions](#12-refresh-group-permissions)
-13. [Test Docker CLI](#13-test-docker-cli)
-14. [Download Docker Desktop](#14-download-docker-desktop)
-15. [Install Docker Desktop](#15-install-docker-desktop)
-16. [Start Docker Desktop](#16-start-docker-desktop)
-17. [Open Docker GUI](#17-open-docker-gui)
-18. [Verify Docker Desktop](#18-verify-docker-desktop)
-19. [Useful Beginner Commands](#19-useful-beginner-commands)
 
 ---
 
